@@ -12,3 +12,6 @@ Nosso primeiro texto é uma entrevista com Tarcízio Silva, autor de "Racismo Al
 
 https://www.uol.com.br/tilt/noticias/redacao/2022/03/10/racismo-algoritmico.htm 
 
+Nosso grupo possui uma pasta no Google Drive para compartilhamento de arquivos. Acesse:
+
+https://drive.google.com/drive/folders/1FF3iuOEyOHzvED_FjutSQqbDeSEv3MwU?usp=sharing
